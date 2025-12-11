@@ -218,6 +218,25 @@ html {
     text-decoration: none;
 }
 
+/* Réduire la taille des cartes de certification */
+.certifications .skill-card {
+    padding: 20px;
+}
+
+.certifications .skill-card i {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.certifications .skill-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+}
+
+.certifications .skill-card p {
+    font-size: 0.9rem;
+}
+
 .skill-card h3 {
     font-size: 1.5rem;
     margin-bottom: 10px;
