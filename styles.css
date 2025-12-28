@@ -437,6 +437,10 @@ html {
     .contact-form {
         padding: 20px;
     }
+
+    .hamburger {
+        display: none !important;
+    }
 }
 
 @media (max-width: 480px) {
