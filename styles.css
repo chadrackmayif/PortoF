@@ -448,33 +448,10 @@ html {
         font-size: 1.3rem;
     }
 
-    /* Hide top navigation and show a mobile nav under the hero title */
-    .navbar .nav-menu {
-        display: none;
-    }
-
     .nav-menu {
         flex-direction: column;
         gap: 0.5rem;
         text-align: center;
-    }
-
-    .mobile-nav {
-        display: flex;
-        flex-direction: column;
-        gap: 0.5rem;
-        list-style: none;
-        padding: 0;
-        margin: 10px 0;
-        justify-content: center;
-    }
-
-    .mobile-nav .nav-link {
-        color: white;
-        background: rgba(255,255,255,0.08);
-        padding: 8px 12px;
-        border-radius: 6px;
-        display: inline-block;
     }
 
     .hero-content h1 {
